@@ -92,6 +92,7 @@ export const workData = [
         title: 'Foodie',
         description: 'Full-stack restaurant website',
         bgImage: '/work-2.png',
+        link: 'https://foodie-frontend-ten.vercel.app/'
     },
     {
         title: 'Job Tracking System',
